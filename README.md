@@ -1,2 +1,0 @@
-# Virtual-Assistant-Chitti-
-AI Voice Assistant as well as A Personal Virtual Assistant using Python ,  (05/2020--09/2020) Techniques using  --Search Wikipedia to abstract required data , Take a photo ,  Shut down,Random playing music/video ,  Automatic send sms/whatsapp message , Send a email to abstract required data, Predict Weather in Different Cities , Predict Current date and time , get top headline news and can ans computational and geographical question .
